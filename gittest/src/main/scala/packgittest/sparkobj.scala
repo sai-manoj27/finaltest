@@ -1,5 +1,5 @@
 package packgittest
 
 object sparkobj {
-  git
+  gitt
 }
